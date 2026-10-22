@@ -1,4 +1,4 @@
-# python-basics-25BCON0667-struct-to-dict
+# python-basics-25BCON0999-struct-to-dict
 Beginner Python Repository: struct-to-dict.py
 
 This repository contains a beginner-friendly Python script that demonstrates how to work with dictionary data structures and formatted string literals (f-strings) in Python.
